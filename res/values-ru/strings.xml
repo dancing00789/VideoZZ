@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+ 
+    <string name="unseekable_stream">Unseekable поток</string>
+    <string name="volume">объем</string>
+    <string name="brightness">яркость</string>
+    <string name="locked">запертый</string>
+    <string name="unlocked">разблокирована</string>
+    
+   
+    
+    <string name="native_video">местные видео</string>
+    <string name="native_file">просмотр файлов</string>
+   
+    <string name="internal_memory">Внутреннее хранилище</string>
+    <string name="parent_folder">включить в каталог более высокого уровня</string>
+    <plurals name="subfolders_quantity">
+        <item quantity="one">Подпапок: 1</item>
+        <item quantity="few">Подпапок: %d</item>
+        <item quantity="other">Подпапок: %d</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="one">Медиафайлов: 1</item>
+        <item quantity="few">Медиафайлов: %d</item>
+        <item quantity="other">Медиафайлов: %d</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="one">1 видео</item>
+        <item quantity="few">%d видео</item>
+        <item quantity="other">%d видео</item>
+    </plurals>
+</resources>

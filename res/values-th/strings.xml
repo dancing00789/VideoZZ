@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  
+    <string name="unseekable_stream">กระแส unseekable</string>
+    <string name="volume">ปริมาณ</string>
+    <string name="brightness">ความสว่าง</string>
+    <string name="locked">ที่ถูกใส่กุญแจ</string>
+    <string name="unlocked">ปลดล็อค</string>
+    
+  
+    <string name="native_video">วิดีโอท้องถิ่น</string>
+    <string name="native_file">เรียกดูไฟล์</string>
+    <string name="internal_memory">หน่วยความจำภายใน</string>
+    <string name="parent_folder">หันไปไดเรกทอรีระดับที่สูงขึ้น</string>
+    <plurals name="subfolders_quantity">
+        <item quantity="other">%d โฟลเดอร์ย่อย</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="other">%d แฟ้มสื่อ</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="other">%d วีดิทัศน์</item>
+    </plurals>
+    
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  
+    <string name="unseekable_stream">corriente unseekable</string>
+    <string name="volume">Volumen</string>
+    <string name="brightness">Brillo</string>
+    <string name="locked">Bloqueado</string>
+    <string name="unlocked">desbloqueado</string>
+    
+    <string name="internal_memory">Almacenamiento interno</string>
+    <string name="parent_folder">convertir al directorio de nivel superior</string>
+    <plurals name="subfolders_quantity">
+        <item quantity="one">1 subcarpeta</item>
+        <item quantity="other">%d subcarpetas</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="one">1 archivo de medio</item>
+        <item quantity="other">%d archivos de medio</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="one">1 vídeo</item>
+        <item quantity="other">%d vídeos</item>
+    </plurals>
+    <string name="native_video">video local</string>
+    <string name="native_file">navegación de archivos</string>
+    
+</resources>

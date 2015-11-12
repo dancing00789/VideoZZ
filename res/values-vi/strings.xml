@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  
+    <string name="unseekable_stream">dòng Unseekable</string>
+    <string name="volume">Âm lượng</string>
+    <string name="brightness">Brightness</string>
+    <string name="locked">đã bị khoá</string>
+    <string name="unlocked">Unlocked</string>
+    
+    
+    <string name="native_video">video địa phương</string>
+    <string name="native_file">duyệt tập tin</string>
+    <string name="internal_memory">Lưu trữ nội bộ</string>
+    <string name="parent_folder">chuyển sang thư mục cấp cao hơn</string>
+     <plurals name="subfolders_quantity">
+        <item quantity="other">% d thư mục con</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="other">% d một tập tin media</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="other">% d một video</item>
+    </plurals>
+   
+</resources>

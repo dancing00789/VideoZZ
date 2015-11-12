@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+   
+    <string name="unseekable_stream">جریان Unseekable</string>
+    <string name="volume">حجم</string>
+    <string name="brightness">روشنایی</string>
+    <string name="locked">قفل شده</string>
+    <string name="unlocked">قفل</string>
+    <string name="native_video">ویدئو محلی</string>
+    <string name="native_file">مرور فایل</string>
+    <string name="internal_memory">حافظه داخلی</string>
+    <string name="parent_folder">به نوبه خود به دایرکتوری سطح بالاتر</string>
+
+</resources>

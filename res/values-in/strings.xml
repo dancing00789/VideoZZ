@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="unseekable_stream">aliran Unseekable</string>
+    <string name="volume">volume</string>
+    <string name="brightness">kecerahan</string>
+    <string name="locked">terkunci</string>
+    <string name="unlocked">unlocked</string>
+    
+
+    <string name="native_video">video lokal</string>
+    <string name="native_file">browsing file</string>
+
+    <string name="internal_memory">Penyimpanan internal</string>
+    <string name="parent_folder">beralih ke direktori tingkat yang lebih tinggi</string>
+     <plurals name="subfolders_quantity">
+        <item quantity="other">% d subfolder</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="other">% d file media</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="other">% d video</item>
+    </plurals>
+    
+</resources>

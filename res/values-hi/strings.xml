@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  
+    <string name="unseekable_stream">Unseekable धारा</string>
+    <string name="volume">आयतन</string>
+    <string name="brightness">चमक</string>
+    <string name="locked">बंद</string>
+    <string name="unlocked">खुला</string>
+  
+    <string name="native_video">स्थानीय वीडियो</string>
+    <string name="native_file">फ़ाइल ब्राउज़िंग</string>
+    
+    <string name="internal_memory">आंतरिक स्टोरेज</string>
+    <string name="parent_folder">उच्च स्तर निर्देशिका के लिए बारी</string>
+
+    <plurals name="subfolders_quantity">
+        <item quantity="one">1 सबफ़ोल्डर</item>
+        <item quantity="other">%d सबफ़ोल्डर</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="one">1 मीडिया दस्तावेज</item>
+        <item quantity="other">%d मीडिया दस्तावेजे</item>
+    </plurals>
+    
+</resources>

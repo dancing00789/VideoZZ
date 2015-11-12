@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey">#CCCCCC</color>
+    <color name="red">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="item_common_pressed">#e0e0e0</color>
+    <color name="item_common_selected">#5e5e5e</color>
+    <color name="item_footer">#e0e0e0</color>
+    <color name="background_common">#f2f1f0</color>
+    <color name="background_player">#fafaf9</color>
+    <color name="background_playlist">#e7e5e2</color>
+    <color name="background_menu_divider">#d0d0d0</color>
+    <color name="background_menu">#e0e0e0</color>
+    <color name="font_default">#222222</color>
+    <color name="font_light">#777777</color>
+    <color name="player">#08800000</color>
+    <color name="darkplayer">#cb1e14</color>
+    <color name="darkerplayer">#800000</color>
+    <color name="transparent_gray">#8000</color>
+    <color name="transparent_white">#dcfafafa</color>
+    <color name="action_bar_title">#FFFFFF</color>
+    <color name="darkgrey">#ffa0a0a0</color>
+    <color name="background_remote">#ff323232</color>
+    
+</resources>

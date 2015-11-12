@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  
+   
+    <string name="internal_memory">内部存储</string>
+    <string name="parent_folder">转到上级目录</string>
+     <plurals name="subfolders_quantity">
+        <item quantity="other">%d 个子文件夹</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="other">%d 个媒体文件</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="other">%d 个视频</item>
+    </plurals>
+    <string name="native_video">本地视频</string>
+    <string name="native_file">文件浏览</string>
+    <string name="scaning">正在扫描</string>
+    <string name="refresh">刷新</string>
+     <string name="volume">音量</string>
+    <string name="brightness">亮度</string>
+    <string name="locked">已锁定</string>
+    <string name="unlocked">已解锁</string>
+    <string name="unseekable_stream">播放时不支持定位的流</string>
+</resources>

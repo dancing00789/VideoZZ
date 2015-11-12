@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <string name="internal_memory">التخزين الداخلي</string>
+    <string name="parent_folder">تحويل إلى الدليل مستوى أعلى</string>
+
+    <plurals name="subfolders_quantity">
+        <item quantity="zero">%d مجلدات ثانويّة</item>
+        <item quantity="one">%d مجلدات ثانويّة</item>
+        <item quantity="two">%d مجلدات ثانويّة</item>
+        <item quantity="few">%d مجلدات ثانويّة</item>
+        <item quantity="many">%d مجلدات ثانويّة</item>
+        <item quantity="other">%d مجلدات ثانويّة</item>
+    </plurals>
+    
+    <plurals name="mediafiles_quantity">
+        <item quantity="zero">%d ملف وسائط</item>
+        <item quantity="one">%d ملف وسائط</item>
+        <item quantity="two">%d ملف وسائط</item>
+        <item quantity="few">%d ملف وسائط</item>
+        <item quantity="many">%d ملف وسائط</item>
+        <item quantity="other">%d ملف وسائط</item>
+    </plurals>
+    
+    <plurals name="videos_quantity">
+        <item quantity="zero">%d مقطع مرئي</item>
+        <item quantity="one">%d مقطع مرئي</item>
+        <item quantity="two">%d مقطع مرئي</item>
+        <item quantity="few">%d مقطع مرئي</item>
+        <item quantity="many">%d مقطع مرئي</item>
+        <item quantity="other">%d مقطع مرئي</item>
+    </plurals>
+    
+    <string name="native_video">فيديو المحلي</string>
+    <string name="native_file">ملف التصفح</string>
+    <string name="unseekable_stream">تيار Unseekable</string>
+    <string name="volume">الصوت</string>
+    <string name="brightness">سطوع</string>
+    <string name="locked">مقفل</string>
+    <string name="unlocked">مقفلة</string>
+    
+</resources>
